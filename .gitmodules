@@ -1,4 +1,8 @@
-[submodule "second"]
+[submodule]
 	path = second
 	url = https://github.com/fabura/main-second-subtree
 	branch = second-feature-branch
+[submodule "second2"]
+	path = second2
+	url = https://github.com/fabura/main-second-subtree
+	branch = master
